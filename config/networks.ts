@@ -43,13 +43,6 @@ const networks: Networks = {
     nonce: undefined,
     accounts,
   },
-  [Chains.roninSaigon]: {
-    ...configData.roninSaigon,
-    url: process.env.RONIN_SAIGON_RPC_URL || "UNSET",
-    gasPrice: undefined,
-    nonce: undefined,
-    accounts,
-  },
 };
 
 const etherscan: EtherscanConfig = {

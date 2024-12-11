@@ -1,4 +1,4 @@
-# CCIP Self-Serve Tokens
+# ChainlinkCCIP
 
 Find a list of available tutorials on the Chainlink documentation: [Cross-Chain Token (CCT) Tutorials](http://docs.chain.link/ccip/tutorials/cross-chain-tokens#overview).
 
